@@ -1,6 +1,6 @@
 # A sample DevOps process and what each process represents
 
-![DevOps Process](d_process.jpg)
+![DevOps Process](/d_process.jpg)
 
 ## Continuous Planning
 
