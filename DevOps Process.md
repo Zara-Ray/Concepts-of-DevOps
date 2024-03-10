@@ -1,7 +1,5 @@
 # A sample DevOps process and what each process represents
 
-![DevOps Process](/d_process.jpg)
-
 ## Continuous Planning
 
 This stage involves aligning the development and operations teams to ensure that everyone is working towards the same goals. It includes activities such as defining project vision and objectives, identifying stakeholders and their requirements, establishing project timelines and milestones, and creating a prioritized backlog of work items.
