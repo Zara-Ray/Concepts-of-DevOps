@@ -1,5 +1,5 @@
 Continuous Planning: 
-This stage involves aligning the development and operations teams to ensure that everyone is working towards the same goals. It includes activities such as defining project vision and objectives, identifying stakeholders and their requirements, establishing project timelines and milestones, and creating a prioritized backlog of work items.
+This stage involves aligning the development and operations teams to ensure that everyone is working towards the same goals. It includes activities such as defining project vision and objectives, identifying stakeholders and their requirements, establishing project timelines and milestones, and creating a prioritized backlog of work items. 
 
 Continuous Integration: 
 In this stage, developers integrate their code changes into a central repository frequently, usually through automated processes. This helps to detect and resolve integration issues early on and ensures that the code is always working. Activities include setting up integration tools and scripts, configuring automated build and test processes, establishing a continuous integration pipeline, monitoring integration results, and addressing issues.
