@@ -1,6 +1,6 @@
 # A sample DevOps process and what each process represents
 
-![DevOps Process](https://drive.google.com/file/d/1S3v5RtR7rC2bo74GP4mUMwf4VH9DNxq9/view?usp=sharing)
+![DevOps Process](https://drive.google.com/file/d/1JnM8rntJjyDdPiHxSjTtUY9mRbvtS0DC/view?usp=drive_link)
 
 ## Continuous Planning
 
