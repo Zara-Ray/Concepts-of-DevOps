@@ -1,1 +1,8 @@
-# Concepts-of-DevOps
+## Name
+* Chizaram Ezugwu
+
+## Accountability partner
+* Alese Michael Toluwani
+
+## Group name
+* DevCareer Africa
