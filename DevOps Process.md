@@ -1,9 +1,8 @@
 # A sample DevOps process and what each process represents
 
-<div style="text-align:center">
-    ![DevOps Process](devops.png)
+<div align="center">
+  <img src="devops.png" alt="DevOps Process">
 </div>
-
 
 ## Continuous Planning
 
