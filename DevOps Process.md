@@ -1,6 +1,9 @@
 # A sample DevOps process and what each process represents
 
-![DevOps Process](devops.png)
+<div style="text-align:center">
+    ![DevOps Process](devops.png)
+</div>
+
 
 ## Continuous Planning
 
